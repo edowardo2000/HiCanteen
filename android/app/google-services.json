@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "588663719665",
+    "project_id": "hicanteen-1bc90",
+    "storage_bucket": "hicanteen-1bc90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588663719665:android:e9e9d5d9863feae1c1cb50",
+        "android_client_info": {
+          "package_name": "com.flutterflow.hicanteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588663719665-pthatcqje9e2jslusf3hn6d973pt5266.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.hicanteen",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "588663719665-ovfve52qfjos8esmhkc704mol8o905fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKw11bhQp_OGX-QlBgjkXSayoK28x5G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588663719665-ovfve52qfjos8esmhkc704mol8o905fq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588663719665-ng4j2lb367goe689jj5m6c3viets2pns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.hicanteen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
